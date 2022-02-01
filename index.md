@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>  
 <h1 align="center">Welcome to Sreehari'S HUB...😎🙌</h1>
