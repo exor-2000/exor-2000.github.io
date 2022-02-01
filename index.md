@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body>  
+<h1 align="center">Welcome to Sreehari'S HUB...😎🙌</h1>
 
-You can use the [editor on GitHub](https://github.com/exor-2000/exor-2000.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>I'am trying to be a custom rom developer🙈 and Right now am exploring github...🤖</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3 align="center">Am an Electrical and Electronics student...⚡⚡</h3>
+  
+<h3 align="center">Give me a HI...🙌:</h3>
+<p align="center">
+<a href="https://twitter.com/sreehar32118803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sreehar32118803" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sreehari-s-4115841aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari-s-4115841aa" height="30" width="40" /></a>
+<a href="https://fb.com/sreehari.satheesan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sreehari.satheesan.5" height="30" width="40" /></a>
+<a href="https://instagram.com/exor_2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="exor_2000" height="30" width="40" /></a>
+<a href="https://t.me/exor_2000/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670070.png?token=exp=1643695280~hmac=35d42b64576fd55143dc5c451e4148e9" alt="exor_2000" height="30" width="40" /></a>  
 
-### Markdown
+  
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/exor-2000/exor-2000.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  </body>
+  </html>
