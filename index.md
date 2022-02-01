@@ -4,7 +4,7 @@
 
 <h2>I'am trying to be a custom rom developer🙈 and Right now am exploring github...🤖</h2>
 
-<h3 align="center">Am an Electrical and Electronics student...⚡⚡</h3>
+<h3 align="center">Am an Electrical and Electronics Engineering student...⚡⚡</h3>
   
 <h3 align="center">Give me a HI...🙌:</h3>
 <p align="center">
